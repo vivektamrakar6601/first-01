@@ -1,7 +1,8 @@
 package practice.First.dto;
 
 public class PersonDto {
-    int y=100;
+
+    int y=200;
     private String name;
     private String address;
     private  String phoneNum;
